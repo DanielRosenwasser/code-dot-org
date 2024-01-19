@@ -4,8 +4,6 @@
     "./src/**/*.tsx",
     "./test/**/*.ts",
     "./test/**/*.tsx",
-    "./src/**/*.js",
-    "./src/**/*.jsx",
   ],
   "compilerOptions": {
     "jsx": "react",
