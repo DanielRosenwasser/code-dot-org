@@ -1,4 +1,4 @@
-name: Rake installer
+name: Node installer
 jobs:
 description: 'Node installer'
 runs:
